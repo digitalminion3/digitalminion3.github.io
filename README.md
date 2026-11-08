@@ -44,8 +44,8 @@ Stay updated on new game announcements, development progress, and upcoming relea
 
 ### Contact
 
-- Website: https://digitalminion.com
-- Email: digitalminion@gmail.com
+- Website: https://digitalminion.com](https://digitalminion3.github.io/
+- Email: digitalminion3@gmail.com
 
 ---
 
